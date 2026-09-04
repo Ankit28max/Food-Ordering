@@ -1,3 +1,4 @@
 "Pizza - Rs. 299" 
 "Burger - Rs. 199" 
 "Pasta - Rs. 249"
+"Coke - Rs. 50"
